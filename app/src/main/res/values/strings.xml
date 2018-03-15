@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Vertex Application</string>
+    <string name="booting_logo">Booting_logo</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_code">Vertex Code</string>
+    <color name="prompt_code">#ffffff</color>
+    <string name="prompt_name">Full Name</string>
+    <string name="action_sign_in">Start Survey</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_code">This code is invalid</string>
+    <string name="error_invalid_password">This name is too short</string>
+    <string name="error_incorrect_password">This name is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing code
+        completions."
+    </string>
+    <string name="title_activity_survey_">Survey_Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="vertex_logo_for_sign_in_screen">vertex logo for sign in screen</string>
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="try_again">try again</string>
+    <string name="page_number">Page:</string>
+    <string name="swipe">Swipe to continue</string>
+    <string name="page_one_of_the_test">page one of the test</string>
+    <string name="first_test_chart">first test chart</string>
+    <string name="page_1_title">3 KEYS</string>
+    <string name="page_1_subtitle1">Key #1</string>
+    <string name="page_1_paragraph1">IF ONE THING STICKS ON THIS JOURNEY….\nEveryone has basic needs in any meaningful dynamic, and that is to be seen and/or heard, understood, and appreciated. If the individuals in your company, organization, or team have these needs met, you will generally find them happy. Happiness is a key indicator for productivity potential. If individuals do not have one or more of these needs met, you will generally find feelings of discontent. If discontent is allowed to grow and fester it will create a wedge in the dynamic.</string>
+    <string name="page_1_subtitle2">Key #2</string>
+    <string name="page_1_paragraph2"><![CDATA[LISTENING does not mean understanding & AGREEING does not mean learning.\nJust because you are present does not mean you aware. Presence without involvement does not lead to growth. To hear, see, or experience something does not equate to an absolute truth; and it does not mean you have to agree. Participate, explore, and add to the value of everyone around you.]]></string>
+    <string name="page_1_subtitle3">Key #3</string>
+    <string name="page_1_paragraph3">I statements are very powerful, while YOU statements can be weak.\nI statements are based on personal reflection and personal expectations. Serving as declarations of what others can expect of you. You statements can lead to unproductive moments, and often times are left up to interpretation as to whether or not the person being spoken to will agree or disagree; creating a gray area with unfair expectations.</string>
+    <string name="page_2_title">TRUE LEADERS</string>
+    <string name="page_2_paragraph1">Think of leaders you respect and admire…\n\nTake a few moments and list the names in the space below…</string>
+    <string name="page_2_paragraph2">•	What makes them a leader?\n•	What words come to mind?\n•	What qualities or characteristics do they embody?</string>
+    <string name="page_2_subtitle1">The Role of a Leader:</string>
+    <string name="page_2_paragraph3">•	Very simple answer…….. Simply to influence others.</string>
+    <string name="page_2_paragraph4">The how, is the most critical part. Influence can have both a negative or positive impact. For the sake of time we will assume everyone exploring this manual has a desire to a positive impact within the groups they are associated. SO, how does one influence others? </string>
+    <string name="page_2_paragraph5">•	By motivating\n•	Managing mood &amp; emotions\n•	Declaring the future\n•	Encouraging the others pursing said future\n•	Navigating pitfalls and accepting the challenge of course correction when necessary</string>
+    <string name="page_3_title1">&quot;It Was them, Not ME&quot;\n&quot;I did My Job&quot;,&quot;He Should Have…&quot;\n&quot;I Would have If…&quot;\n     &quot;That’s Your Job Not Mine&quot;</string>
+    <string name="page_3_subtitle1">The Story of Most </string>
+    <string name="page_3_paragraph1">This is a story about four people named EVERYBODY, SOMEBODY, ANYBODY, and NOBODY. There was an important job to be done and Everybody was sure that Somebody would do it.</string>
+    <string name="page_3_paragraph2">Anybody could have done it, but Nobody did it.\n\nSomebody got angry about that, because it was Everybody's job.\n\nEverybody thought Anybody could do it, but Nobody realized that Everybody wouldn’t do it.\n\nIt ended up that Everybody blamed Somebody but Nobody did what Anybody Could've done.</string>
+    <string name="page_4_title1">Model of intrinsic Impact </string>
+    <string name="page_4_subtitle1">Adapted from Goldman's Model of Emotional Intelligence</string>
+    <string name="page_5_title1">The 5 </string>
+    <string name="page_5_subtitle1">The 5 influencers of Sabotage </string>
+    <string name="page_5_paragraph1">Each person, depending on their individual character traits will find certain tasks, activities, and roles easier than others. For example, a person that identifies as an introvert generally would not enjoy speaking in public. A  person that identifies as an extrovert would tend not to enjoy themselves in a setting where they would not have much contact with other people. </string>
+    <string name="page_5_paragraph2">Just as all people find comfort in different environments, people react differently under stress. The more stressed a person is, the more impulsive and instinctive their reactions will become. These reactions can be traced and often times predicted based on an individual’s THOUGHT HABIT.</string>
+    <string name="page_5_subtitle2">THOUGHT HABITS</string>
+    <string name="page_5_paragraph3">Noun</string>
+    <string name="page_5_paragraph4">Are what we constantly tell ourselves, which we start to believe. Thought Habits are what form the basis of our mindsets and mental approaches.</string>
+    <string name="page_6_title1">The 5: TEST</string>
+    <string name="page_6_subtitle1">The 5 influencers of Sabotage </string>
+    <string name="page_6_paragraph1">On the following pages you will find a test originally developed by Aevolis, S.A. in Paris, France. The original concept was called "Drivers" and was presented by Taibi Kahler in an article written in 1975 in the Transactional Analysis Journal. It has sense been reproduced in a variety of forms. This is an adaption of some of those forms. </string>
+    <string name="page_6_subtitle2">Instructions: </string>
+    <string name="page_6_paragraph2">1.	There are 5 sections each one of 10 questions. Read each question carefully and select the response that best describes your connection to the describe circumstance.\n\n2.	Use the scale at the top of each section to gauge your individual relationship to each circumstance described\na.	Never  -  Maybe  -  Sometimes  -  Often  -  Definitely\n\n3.	Circle the number that is located in the column that corresponds with your answer\n\n4.	When you have completed each section add all your answers for those 10 particular questions and right your total in the section marked total.</string>
+    <string name="page_7_title1">The 5: TEST </string>
+    <string name="page_7_subtitle1">Test #1 </string>
+    <string name="page_8_subtitle1">Test #2 </string>
+    <string name="page_9_subtitle1">Test #3 </string>
+    <string name="page_10_subtitle1">Test #4</string>
+    <string name="page_11_subtitle1">Test #5</string>
+    <string name="page_12_title1">The 5 influencers of Sabotage</string>
+    <string name="page_12_paragraph1">The 5 Influencers of Sabotage represents the potential spontaneous and impulsive reaction of someone under immediate stress. Immediate stress can be cause by negative situations, high stake environments, critical situations, and highly competitive moments. The idea is borrowed from the concept of "Personal Drivers" in transactional analysis. Personal Drivers are injunctions that condition behavior under stress.\n\nThe feelings associated with each of the 5 Influencers of Sabotage are always typically perceived as "musts". Meaning the person feels obliged to say or do something in the moment. People experiencing one of the 5 Influencers will find themselves recognizing internal statements (SELF TALK) (THOUGHT NARRATIVES) such as; I have to, I have to make this perfect, I have to work harder, or its on me. At times these internal comments can become demanding to the point of statements such as: Hurry UP!, Toughen UP!, Dig in!, or this just is not good enough.\n\nOften times when people are under stress these 5 Influencers of Sabotage can lead to bad results. However it does not always have to be negative. Many people can find strength in each of these five areas. It is important to be aware of the Influencer or Influencers that drive you. Such awareness will give you control and access to the positive attributes associated with each.
+        \n\nWhen one or more of the 5 Influencers of Sabotage are activated, people focus on the influencer that is leading them, which may cause them to disconnect with their surroundings, or misalign with peers disrupting the flow of their common path. This can lead them to stop assessing their current situation, consequently, diminishing their efficiency or diluting their true purpose or intent.
+        \n\nThe importance of recognizing the 5 Influencers of Sabotage in yourself and in other people is to regain control over yourself and the group dynamic when you recognize the presence of one of the 5 Influencers. This will allow you to work to your strengths and the strengths of each of the 5 rather than be driven or derailed by them.</string>
+    <string name="page_12_paragraph2">Below fill in the chart with the total from each of the previous five tests. </string>
+    <string name="page_13_title1">The 5 influencers of Sabotage </string>
+    <string name="page_14_title1">Effective Communication</string>
+    <string name="page_14_paragraph1">Below you will find two  diagrams that will elaborate on the distinct types of communication. Some of this information may be new to you but it all can be very useful. </string>
+    <string name="page_15_subtitle1">Communication Profile  </string>
+    <string name="page_15_paragraph1">Study the following group of words. Choose the one word in each line that best applies to you. Try to base your answer on what you believe the people who know you best would say about you. </string>
+    <string name="page_17_title1">Communication Profile  </string>
+    <string name="page_17_paragraph1">After you tabulate your total responses on the previous page compare each of the four profiles to one another. What we are looking for is your individual level of versatility across the spectrum of communication profiles. The more versatility any individual has the more potential for dynamic impact and leadership that person will posses. Below is a quick glimpse into each of the four profiles as well as potential modifications for any individual that may have a dominate profile at the moment. Remember there are weaknesses in every strength, and there are positives in any perceived weakness.\n\nThe four profiles are Illustration (The Extrovert, The Optimist); Headline (The Boss, The Driver); Body (The Perfectionist, The Planner); and Logo (The Soldier, The engine).</string>
+    <string name="page_19_title1">Intended Success </string>
+    <string name="page_19_subtitle1">You have the power</string>
+    <string name="page_20_subtitle1">Narrative Momentum</string>
+    <string name="page_20_paragraph1">&amp; The Power of Thought Habits ….\n\n\nThought Habits are what we constantly tell ourselves, which we start to believe. Thought habits are what form the basis of our mindsets and mental approach. The power of self-talk is immense. The conversations we have with ourselves are the keys to every decision we make or we don’t make. Thought habits are critical in setting goals and providing the self-discipline you need to achieve them.\n\nNarrative momentum derives directly from thought habits. Narrative momentum is the story we have told our selves that are founding our assumptions and ways of being. We are constantly writing our narrative and repeating it to ourselves even if we do not consciously recognize when we do so. It is of upmost importance that we take control of our self-narrative because it is the sole driving force behind who we are and what we do. The momentum is crucial because we are traveling on a path whether we like it or not and the momentum will definitely guide us. Sometime we are guided to happiness and great success and sometime we are not. Every twist and turn is not predictable, but the more control we take over the narrative the more confidence we can have in the momentum.</string>
+    <string name="page_20_paragraph2">The key is developing a Visual Path and acknowledging that change needs to happen. In all honesty change is destined to happen, so the question to ask yourself; is do you want to be the agent of change or the victim of change?\n\nOnce you develop your visual path (sets of goals) your next task is to identify The Change Work that will be necessary. Your commitment to the change work and consistency of your effort towards your change will be one of the ultimate factors for your level of success.</string>
+    <string name="page_21_title1">What’s Next</string>
+    <string name="page_21_subtitle1">Team dynamics </string>
+    <string name="page_21_subtitle2">Solidifying team Identity &amp; ultimate Goals</string>
+    <string name="page_21_subtitle3">Deeper Dive into Narrative Momentum </string>
+    <string name="page_21_paragraph1">Will make each team member aware of the dynamics that exist in every group/team setting. Allowing each team member to recognize the healthy or unhealthy role they are playing in creating the overall team dynamics. When people are aware of the dynamics that are at work, they are more equipped to impact them. </string>
+    <string name="page_21_paragraph2">Solidify team identity by creating shared meaning and common thought language. Empowering each member of the team to align and achieve common success.</string>
+    <string name="page_21_paragraph3">Continue to explore the concept of narrative momentum, by creating forward projections for individual and team success. </string>
+
+</resources>

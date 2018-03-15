@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toolbar" type="id" />
+    <item name="position" type="id" />
+    <item name="name" type="id" />
+    <item name="wins" type="id" />
+    <item name="draws" type="id" />
+    <item name="losses" type="id" />
+    <item name="points" type="id" />
+</resources>
